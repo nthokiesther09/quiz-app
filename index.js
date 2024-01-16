@@ -10,7 +10,7 @@ const questions = [
 
    },
    {
-    question: "Which country does not belong to the east africa region ?",
+    question: "Which country does not belong to the East Africa region ?",
         answers: [
             {text:"Tanzania", correct: false},
             {text:"Burundi", correct: true},
